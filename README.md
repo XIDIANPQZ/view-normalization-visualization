@@ -1,2 +1,4 @@
 # view-normalization-visualization
+<img src="https://github.com/XIDIANPQZ/view-normalization-visualization/blob/main/Example%201/S001C003P004R002A037_rgb.gif" width="250" height="250"> <img src="https://github.com/XIDIANPQZ/view-normalization-visualization/blob/main/Example%201/inputS001C003P004R002A037.gif" width="250" height="250"> <img src="https://github.com/XIDIANPQZ/view-normalization-visualization/blob/main/Example%201/fakeS001C003P004R002A037.gif" width="250" height="250">
+
 <img src="https://github.com/XIDIANPQZ/view-normalization-visualization/blob/main/Example%201/S001C003P004R002A037_rgb.gif" width="200" height="200"> <img src="https://github.com/XIDIANPQZ/view-normalization-visualization/blob/main/Example%201/inputS001C003P004R002A037.gif" width="200" height="200"> <img src="https://github.com/XIDIANPQZ/view-normalization-visualization/blob/main/Example%201/fakeS001C003P004R002A037.gif" width="200" height="200">
